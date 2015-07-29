@@ -1,6 +1,6 @@
 Package.describe({
-  "summary": "Regular Expression Filter for Search Query",
-  "version": "0.0.1",
+  "summary": "regExp Query Filter",
+  "version": "0.0.3",
   "git": "https://github.com/kadirahq/regex-query-filter",
   "name": "kadira:regex-query-filter"
 });
